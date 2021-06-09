@@ -1,2 +1,0 @@
-# hadamar-theater
-rotterdam
